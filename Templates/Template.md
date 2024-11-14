@@ -4,7 +4,7 @@ Tags:
 
 Status:
 
-# {{Title}}
+
 
 
 # References:
