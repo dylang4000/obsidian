@@ -3,7 +3,6 @@
 
 Tags:[Cyber Security],[Computer Science]
 
-Status:
 
 # Read your forensics questions first
 - Your forensic questions can be based on things you may accidentally change in the system like user information file information and other things
