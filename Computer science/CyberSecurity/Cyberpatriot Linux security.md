@@ -8,19 +8,20 @@ Status: Still Learning
 # Read your forensics questions first
 - Your forensic questions can be based on things you may accidentally change in the system like user information file information and other things
 # Firewall
-- Install "gufw" for ui navigation of firewall
+- Install "gufw" for GUI editing of firewall
 	-"sudo apt-get install gufw"
 
-# Commands you may need(for forensics and other security measures)
-	
+# Commands you may need(for forensics, general use, and other security measures)
 
 
 
+ 
 
 
 ## 
 ## Basic Useful Linux Commands
-
+-  cd
+	in the linux CLI you execute commands in different directories(folders) on your computer cd allows you to start working in another directory
 
 
 # References:
