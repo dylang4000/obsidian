@@ -23,6 +23,17 @@ Tags:[Cyber Security],[Computer Science]
 	in the linux CLI you execute commands in different directories(folders) on your computer cd allows you to start working in another directory
 
 
+
+## stuff to learn
+- cron jobs
+- services
+- maybe firewall
+- hacking tools on kali linux to remove
+- user permissions
+- usermod userdel adduser groups gpasswd groupdel
+- apache2
+- 
+
 # References:
 [Cyberpatriot Linux Powerpoint](https://s3.amazonaws.com/cpvii/Training+materials/Unit+Eight+-+Ubuntu+Security.pdf)
 
